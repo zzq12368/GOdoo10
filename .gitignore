@@ -1,0 +1,5 @@
+data/
+runtime/
+*.pyc
+.idea/
+*.log
